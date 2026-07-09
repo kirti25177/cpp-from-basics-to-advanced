@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/kirti_k/OneDrive/Desktop/DSA a-z/Arrays",
-      "program": "c:/Users/kirti_k/OneDrive/Desktop/DSA a-z/Arrays/build/Debug/outDebug",
+      "cwd": "c:/Users/kirti_k/OneDrive/Desktop/DSA a-z/Sorting Techniques",
+      "program": "c:/Users/kirti_k/OneDrive/Desktop/DSA a-z/Sorting Techniques/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
